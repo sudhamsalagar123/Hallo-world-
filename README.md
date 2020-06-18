@@ -1,2 +1,5 @@
 # Hallo-world-
-just another repository
+#include<stdio.h>
+{
+printf("Hello word");
+}
